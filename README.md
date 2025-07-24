@@ -3,13 +3,12 @@ Norwegian maps data
 
 ## 📍 Source
 
-The map data source is https://github.com/robhop/fylker-og-kommuner, which is based on the original data from [Geonorge](https://www.geonorge.no).
-The above data sources are under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
-We did some tweaks on the data to fit our own needs.
+The data source of the map data is https://github.com/robhop/fylker-og-kommuner, which is based on the original data from [Geonorge](https://www.geonorge.no).  
+The above data sources are under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 
 ## 📄 License
 
-This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+This dataset is licensed under the **CC BY 4.0** license as well.
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
