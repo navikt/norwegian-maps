@@ -3,10 +3,9 @@ Norwegian maps data
 
 ## 📍 Source
 
-The data is obtained from:
-
-> [Geonorge](https://www.geonorge.no)  
-> Provided by: [Kartverket / Geonorge](https://www.kartverket.no/)
+The map data source is https://github.com/robhop/fylker-og-kommuner, which is based on the original data from [Geonorge](https://www.geonorge.no).
+The above data sources are under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+We did some tweaks on the data to fit our own needs.
 
 ## 📄 License
 
